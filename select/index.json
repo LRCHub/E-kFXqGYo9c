@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "PAGE ONE",
+  "base_artist": "唾奇、Kohjiya",
+  "createdAt": "2025-12-01T08:21:26.228764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Lemon Jelly",
+      "has_synced": true,
+      "path": "select/01_Page_One_Lemon_Jelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "The Charlatans",
+      "has_synced": true,
+      "path": "select/02_Page_One_The_Charlatans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "The Charlatans UK",
+      "has_synced": true,
+      "path": "select/03_Page_One_The_Charlatans_UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Liquido",
+      "has_synced": true,
+      "path": "select/04_Page_One_Liquido.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gary Page One in Pink",
+      "artist": "None More Black",
+      "has_synced": true,
+      "path": "select/05_Gary_Page_One_in_Pink_None_More_Black.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Texas In July",
+      "has_synced": false,
+      "path": "select/06_Page_One_Texas_In_July.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Katie Noonan & The Captains",
+      "has_synced": true,
+      "path": "select/07_Page_One_Katie_Noonan_&_The_Captains.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Katie Noonan And The Captains",
+      "has_synced": true,
+      "path": "select/08_Page_One_Katie_Noonan_And_The_Captains.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "페이지원(Page One)",
+      "artist": "Ok Joo Hyun",
+      "has_synced": true,
+      "path": "select/09_페이지원(Page_One)_Ok_Joo_Hyun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jive (Page One of the Hepster's Dictionary)",
+      "artist": "Cab Calloway and His Orchestra",
+      "has_synced": false,
+      "path": "select/10_Jive_(Page_One_of_the_Hepster's_Dictionary)_Cab_Calloway_and_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Page One (페이지원)",
+      "artist": "옥주현",
+      "has_synced": true,
+      "path": "select/11_Page_One_(페이지원)_옥주현.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Charlatans",
+      "has_synced": true,
+      "path": "select/12_Page_One_Charlatans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Lemon Jelly",
+      "has_synced": false,
+      "path": "select/13_Page_One_Lemon_Jelly.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Page One",
+      "artist": "Charlatans UK",
+      "has_synced": true,
+      "path": "select/14_Page_One_Charlatans_UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "페이지원",
+      "artist": "JooHyun Oak, SG Wannabe, T-ARA",
+      "has_synced": false,
+      "path": "select/pl_01_페이지원_JooHyun_Oak,_SG_Wannabe,_T-ARA.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PAGE ONE",
+      "artist": "JooHyun Oak, SG Wannabe, T-ARA",
+      "has_synced": false,
+      "path": "select/pl_02_PAGE_ONE_JooHyun_Oak,_SG_Wannabe,_T-ARA.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "PAGE ONE",
+      "artist": "JooHyun Oak, SG Wannabe, T-ARA",
+      "has_synced": false,
+      "path": "select/pl_03_PAGE_ONE_JooHyun_Oak,_SG_Wannabe,_T-ARA.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "PAGE ONE",
+      "artist": "JooHyun Oak, SG Wannabe, T-ARA",
+      "has_synced": false,
+      "path": "select/pl_04_PAGE_ONE_JooHyun_Oak,_SG_Wannabe,_T-ARA.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Page One",
+      "artist": "JooHyun Oak, SG Wannabe, T-ARA",
+      "has_synced": false,
+      "path": "select/pl_05_Page_One_JooHyun_Oak,_SG_Wannabe,_T-ARA.txt"
+    }
+  ]
+}
